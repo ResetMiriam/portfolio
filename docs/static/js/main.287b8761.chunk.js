@@ -1,0 +1,2 @@
+(this["webpackJsonpresetmiriam-portfolio"]=this["webpackJsonpresetmiriam-portfolio"]||[]).push([[0],{10:function(t,e,r){"use strict";r.r(e);var n=r(1),o=r.n(n),i=r(3),c=r.n(i),s=(r(8),r(0));var a=function(){return Object(s.jsx)("div",{children:"Hola Mundo"})};c.a.render(Object(s.jsx)(o.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))},8:function(t,e,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.287b8761.chunk.js.map
